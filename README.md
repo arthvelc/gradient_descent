@@ -8,7 +8,7 @@ Este repositorio contiene un ejemplo práctico del algoritmo de Descenso del Gra
   
 ## Uso
 
-Sigue el [cuaderno interactivo](descenso_del_gradiente.ipynb) para entender y experimentar con el Descenso del Gradiente en acción. Puedes abrirlo directamente aquí en GitHub o clonar el repositorio y ejecutarlo en tu entorno local.
+Sigue el [cuaderno interactivo](gradient_descent.ipynb) para entender y experimentar con el Descenso del Gradiente en acción. Puedes abrirlo directamente aquí en GitHub o clonar el repositorio y ejecutarlo en tu entorno local.
 
 ## Contribuciones
 
